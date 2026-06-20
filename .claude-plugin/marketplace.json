@@ -1,0 +1,16 @@
+{
+  "name": "htmldrop-claude",
+  "description": "Claude Code plugin marketplace for htmldrop — publish HTML & Markdown to a hosted URL from Claude Code",
+  "owner": {
+    "name": "htmldrop",
+    "email": "eren@gowit.com"
+  },
+  "plugins": [
+    {
+      "name": "htmldrop",
+      "source": "./plugins/htmldrop",
+      "description": "Publish HTML or Markdown to a real hosted URL straight from Claude Code, authenticated via OAuth",
+      "version": "1.0.0"
+    }
+  ]
+}
