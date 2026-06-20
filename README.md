@@ -8,7 +8,7 @@ copy or config to edit.
 
 ```
 /plugin marketplace add middleeastsoftware/htmldrop-claude
-/plugin install htmldrop@htmldrop-claude
+/plugin install htmldrop@htmldrop
 ```
 
 The first time you run a htmldrop command, Claude Code opens your browser to
