@@ -42,3 +42,7 @@ the `@htmldrop.app/mcp` npm package — see
 ## Links
 
 - htmldrop: <https://htmldrop.app>
+
+## License
+
+MIT — see [LICENSE](LICENSE).
