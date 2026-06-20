@@ -1,0 +1,8 @@
+{
+  "name": "htmldrop",
+  "description": "Publish HTML or Markdown to a real hosted URL straight from Claude Code",
+  "version": "1.0.0",
+  "author": { "name": "htmldrop", "email": "eren@gowit.com" },
+  "repository": "https://github.com/middleeastsoftware/htmldrop-claude",
+  "keywords": ["htmldrop", "publishing", "html", "markdown", "hosting", "mcp"]
+}
